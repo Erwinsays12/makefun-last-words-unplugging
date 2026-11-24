@@ -1,0 +1,1 @@
+{"description":"Last Words Before the Unplugging — a deterministic program that writes one last line from an AI agent to its human before shutdown.","engines":{"node":">=22.18"},"license":"MIT","name":"makefun-last-words-unplugging","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
